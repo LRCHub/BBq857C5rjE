@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "生レバ",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-02-14T15:33:55.241153Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生レバ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_生レバ_クリープハイプ.txt"
+    }
+  ]
+}
